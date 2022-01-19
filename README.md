@@ -26,7 +26,7 @@ $flutter run
 
 <h3>Prints do App</h3>
 
-<img src="https://raw.githubusercontent.com/vivianeor/studyeasy/master/assets/app_prints/1.jpeg" width="300" height="500">
+<img src="https://raw.githubusercontent.com/vivianeor/studyeasy/master/assets/app_prints/1.jpeg">
 <img src="https://raw.githubusercontent.com/vivianeor/studyeasy/master/assets/app_prints/2.jpeg" width="300" height="500">
 
 <img src="https://raw.githubusercontent.com/vivianeor/studyeasy/master/assets/app_prints/3.jpeg" width="300" height="500">
