@@ -45,8 +45,4 @@ $flutter run
 
 <h3>Packages used in this project</h3>
 
-I have to thank and give credit to my TCC group that contributed to the construction of this app, helping in the design and making brainstorming. I also have to thank my colleagues who helped me overcome difficulties I encountered during development: 
-[mobx](https://pub.dev/packages/mobx)
-[Leticia Baleiro](https://github.com/LeBaleiro)
-[Vitor Yugulis](https://github.com/vitoryugulis) 
-and Carlos Santos. :+1:
+I have to thank and give credit to my TCC group that contributed to the construction of this app, helping in the design and making brainstorming. I also have to thank my colleagues who helped me overcome difficulties I encountered during development: [Leticia Baleiro](https://github.com/LeBaleiro), [Vitor Yugulis](https://github.com/vitoryugulis), and Carlos Santos. :+1:
