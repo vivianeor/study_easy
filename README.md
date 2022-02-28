@@ -21,8 +21,7 @@ $flutter pub get
 $flutter pub run build_runner build --delete-conflicting-outputs
 $flutter run
 ```
-<br/>
-:rotating_light: Or do it even better, [download this app from PlayStore](https://play.google.com/store/apps/details?id=tccstudyeasy.studyeasy.com.study_easy) :star_struck:<br/>
+:rotating_light: Or do it even better, [download this app from PlayStore](https://play.google.com/store/apps/details?id=tccstudyeasy.studyeasy.com.study_easy) :star_struck:
 
 <h3>Packages used in this project</h3><br/>
 
