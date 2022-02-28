@@ -1,36 +1,46 @@
-## StudyEasy
-Um organizador de estudos com calendário/agenda, lista de tarefas, anotações e cadastro de matérias e notas.
+## Study Easy: A app built in Flutter with getX as state manager and Hive as database.
 
-<h3>Requisitos</h3>
+A study organizer with a calendar/schedule, to-do list, annotations and registration of subjects and notes.
+
+<img src="https://raw.githubusercontent.com/vivianeor/study_easy/master/assets/app_prints/1.jpeg">
+
+An app built so that the student can concentrate things related to studies in one place, making it easier to organize.
+I built this app using [hive](https://pub.dev/packages/hive) to save data locally and [getx](https://pub.dev/packages/get) for state management.
+
+<h3>Installing the project</h3>
+You can install this app on your android phone downloading the apk file **study_easy.apk** in this repository or cloning this repository which has the following requirements:<br/>
 ✅ Flutter 2.2.1 (channel stable) <br/> 
 ✅ Dart 2.13.1 <br/> 
 ✅ JDK 8+ <br/> 
 ✅ Android Studio (com plugins Flutter e Dart) <br/> 
 ✅ Android SDK <br/> 
 
-<h3>Comandos para rodar o app </h3>
-
+In this case, run the following commands:
 ```
 $flutter pub get
 $flutter pub run build_runner build --delete-conflicting-outputs
 $flutter run
 ```
 
-<h3>Observações do Projeto</h3>
+<h3>Packages used in this project</h3><br/>
 
-* Esse projeto foi desenvolvido utilizando GetX como gerenciador de estado.
-<img src="https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png" width="700" height="200">
+* [mobx](https://pub.dev/packages/mobx)
+* [google_fonts](https://pub.dev/packages/google_fonts)
+* [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+* [lottie](https://pub.dev/packages/lottie)
+* [table_calendar](https://pub.dev/packages/table_calendar)
+* [intl](https://pub.dev/packages/intl)
+* [auto_size_text](https://pub.dev/packages/auto_size_text)
+* [hive](https://pub.dev/packages/hive)
+* [hive_flutter](https://pub.dev/packages/hive_flutter)
+* [uuid](https://pub.dev/packages/uuid)
+* [get](https://pub.dev/packages/get)
+* [path_provider](https://pub.dev/packages/path_provider)
+* [flutter_slidable](https://pub.dev/packages/flutter_slidable)
+* [hive_generator](https://pub.dev/packages/hive_generator)
+* [build_runner](https://pub.dev/packages/build_runner)
+* [json_serializable](https://pub.dev/packages/json_serializable)
+* [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
 
-* Também foi utilizado o banco de dados Hive, apenas salvando os dados localmente no dispositivo.
-<img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" width="500" height="200">
-
-<h3>Prints do App</h3>
-
-<img src="https://raw.githubusercontent.com/vivianeor/study_easy/master/assets/app_prints/1.jpeg" width="300" height="500">
-<img src="https://raw.githubusercontent.com/vivianeor/study_easy/master/assets/app_prints/2.jpeg" width="300" height="500">
-
-<img src="https://raw.githubusercontent.com/vivianeor/study_easy/master/assets/app_prints/3.jpeg" width="300" height="500">
-<img src="https://raw.githubusercontent.com/vivianeor/study_easy/master/assets/app_prints/4.jpeg" width="300" height="500">
-
-<img src="https://raw.githubusercontent.com/vivianeor/study_easy/master/assets/app_prints/5.jpeg" width="300" height="500">
-
+<h3>Packages used in this project</h3><br/>
+I have to thank and give credit to my TCC group that contributed to the construction of this app, helping in the design and making brainstorming. I also have to thank my colleagues who helped me overcome difficulties I encountered during development: Léticia Baleiro, Vitor Yugulis and Carlos Santos.
