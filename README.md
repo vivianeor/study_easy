@@ -1,4 +1,4 @@
-## Study Easy: A app built in Flutter with getX as state manager and Hive as database.
+## Study Easy: A app built in Flutter with getX as state manager and Hive as database. :blue_heart:
 
 A study organizer with a calendar/schedule, to-do list, annotations and registration of subjects and notes.
 
@@ -8,12 +8,14 @@ An app built so that the student can concentrate things related to studies in on
 I built this app using [hive](https://pub.dev/packages/hive) to save data locally and [getx](https://pub.dev/packages/get) for state management.
 
 <h3>Installing the project</h3>
-You can install this app on your android phone downloading the apk file __study_easy.apk__ in this repository or cloning this repository which has the following requirements:<br/>
+You can install this app on your android phone downloading the apk file study_easy.apk in this repository or cloning this repository which has the following requirements:<br/>
 ✅ Flutter 2.2.1 (channel stable) <br/> 
 ✅ Dart 2.13.1 <br/> 
 ✅ JDK 8+ <br/> 
 ✅ Android Studio (com plugins Flutter e Dart) <br/> 
 ✅ Android SDK <br/> 
+
+Or do it even better, [download this app from PlayStore](https://play.google.com/store/apps/details?id=tccstudyeasy.studyeasy.com.study_easy) :star_struck:
 
 In this case, run the following commands:
 ```
@@ -43,4 +45,4 @@ $flutter run
 * [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
 
 <h3>Packages used in this project</h3><br/>
-I have to thank and give credit to my TCC group that contributed to the construction of this app, helping in the design and making brainstorming. I also have to thank my colleagues who helped me overcome difficulties I encountered during development: [Leticia Baleiro](https://github.com/LeBaleiro), [Vitor Yugulis](https://github.com/vitoryugulis) and Carlos Santos.
+I have to thank and give credit to my TCC group that contributed to the construction of this app, helping in the design and making brainstorming. I also have to thank my colleagues who helped me overcome difficulties I encountered during development: [Leticia Baleiro](https://github.com/LeBaleiro), [Vitor Yugulis](https://github.com/vitoryugulis) and Carlos Santos. :+1:
