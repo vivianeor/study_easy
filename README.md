@@ -43,6 +43,6 @@ $flutter run
 * [json_serializable](https://pub.dev/packages/json_serializable)
 * [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
 
-<h3>Packages used in this project</h3>
+<h3>Credits</h3>
 
 I have to thank and give credit to my TCC group that contributed to the construction of this app, helping in the design and making brainstorming. I also have to thank my colleagues who helped me overcome difficulties I encountered during development: [Leticia Baleiro](https://github.com/LeBaleiro), [Vitor Yugulis](https://github.com/vitoryugulis), and Carlos Santos. :+1:
