@@ -13,9 +13,9 @@ You can install this app on your android phone downloading the apk file study_ea
 ✅ Dart 2.13.1 <br/> 
 ✅ JDK 8+ <br/> 
 ✅ Android Studio (com plugins Flutter e Dart) <br/> 
-✅ Android SDK <br/> 
+✅ Android SDK <br/> <br/> 
 
-Or do it even better, [download this app from PlayStore](https://play.google.com/store/apps/details?id=tccstudyeasy.studyeasy.com.study_easy) :star_struck:
+:rotating_light: Or do it even better, [download this app from PlayStore](https://play.google.com/store/apps/details?id=tccstudyeasy.studyeasy.com.study_easy) :star_struck:
 
 In this case, run the following commands:
 ```
