@@ -15,14 +15,14 @@ You can install this app on your android phone downloading the apk file study_ea
 ✅ Android Studio (com plugins Flutter e Dart) <br/> 
 ✅ Android SDK <br/> <br/> 
 
-:rotating_light: Or do it even better, [download this app from PlayStore](https://play.google.com/store/apps/details?id=tccstudyeasy.studyeasy.com.study_easy) :star_struck:
-
 In this case, run the following commands:
 ```
 $flutter pub get
 $flutter pub run build_runner build --delete-conflicting-outputs
 $flutter run
 ```
+<br/>
+:rotating_light: Or do it even better, [download this app from PlayStore](https://play.google.com/store/apps/details?id=tccstudyeasy.studyeasy.com.study_easy) :star_struck:<br/>
 
 <h3>Packages used in this project</h3><br/>
 
