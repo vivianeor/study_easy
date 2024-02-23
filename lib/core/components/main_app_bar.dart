@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:study_easy/core/utils/const_colors.dart';
 
@@ -40,7 +39,7 @@ class _MainAppBarState extends State<MainAppBar> {
           elevation: 0,
           titleSpacing: 0.0,
           leading: null,
-          brightness: widget.brightness,
+          //brightness: widget.brightness,
           flexibleSpace: Container(
             decoration: widget.transparentBackground == true ?
             BoxDecoration(
